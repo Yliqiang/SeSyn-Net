@@ -1,5 +1,5 @@
 # SeSyn-Net
-+ This is the code implementation of article "Self-Supervised Human Pose based Multi-Camera Video Synchronization"
++ This is the code implementation of paper "Self-Supervised Human Pose based Multi-Camera Video Synchronization"
 + Contact: yinliqiang@tju.edu.cn. Any questions or discussions are welcomed!
 
 ## Environment
